@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 style='colour: gray'>Java Home Cloud!</h2>
+<h2 style='color: blue'>Java Home Cloud!</h2>
 </body>
 </html>
